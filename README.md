@@ -24,7 +24,7 @@ This repository contains Python implementations of common unconstrained optimiza
     *   Convergence plots (Function Value vs. Iterations).
     *   Gradient Norm plots (Gradient Norm vs. Iterations, log scale).
     *   Contour plots with optimization path visualization for 2D functions.
-*   **Comprehensive Report:** Includes mathematical derivations, manual minima calculations, convergence analysis, and embedded plots (`boilerplate/report.md`).
+*   **Comprehensive Report:** Includes mathematical derivations, manual minima calculations, convergence analysis, and embedded plots (`report.md`).
 
 ## Requirements
 
